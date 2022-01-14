@@ -23,7 +23,7 @@
 
 
 /* Mobile First Approach*/
-@media (min-width:320px) and (max-width: 425px){
+@media (min-width:320px) and (max-width: 450px){
     .header{
         height: 600px;
         background-color: blue;
@@ -453,7 +453,7 @@
 
 
 /* medium devices */
-@media (min-width:426px) and (max-width: 768px){
+@media (min-width:451px) and (max-width: 769px){
     .header{
         background: linear-gradient(60deg,#4839B7,#6ED0B5);;
     }
@@ -942,7 +942,7 @@
     }
 
     /* Extra-large devices */
-    @media (min-width:769px) and (max-width: 1500px){
+    @media (min-width:770px) and (max-width: 1500px){
         .header{
             
             background: linear-gradient(60deg,#4839B7,#6ED0B5);;
